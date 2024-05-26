@@ -48,7 +48,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>1</div>
                         <div className=' flex pl-0 w-64 pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels4_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels4_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className=' text-sm m-0 p-0'>T-Series</div>
@@ -66,7 +66,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>2</div>
                         <div className='flex pl-0 w-64 justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels3_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels3_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>MrBeast</div>
@@ -84,7 +84,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>3</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels6_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels6_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>SET India</div>
@@ -102,7 +102,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>4</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels7_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels7_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>PewDiePie</div>
@@ -120,7 +120,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>5</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels8_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels8_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>Zee Music Company</div>
@@ -138,7 +138,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>6</div>
                         <div className='flex pl-0 w-64 justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels9_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels9_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'> WWE</div>
@@ -156,7 +156,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>7</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels10_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels10_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>Goldmines</div>
@@ -174,7 +174,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>8</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels11_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels11_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>BLACKPINK</div>
@@ -192,7 +192,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>9</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels12_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels12_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>Sony SAB</div>
@@ -210,7 +210,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>10</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels13_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels13_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>5-Minute Crafts</div>
@@ -228,7 +228,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>11</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels14_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels14_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'> Zee TV</div>
@@ -246,7 +246,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>12</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels15_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels15_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>BANGTANTV</div>
@@ -264,7 +264,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>13</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels16_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels16_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>Hybe Labels</div>
@@ -282,7 +282,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>14</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels17_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels17_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>Justin Bieber</div>
@@ -300,7 +300,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>15</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels18_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels18_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>Colors TV</div>
@@ -318,7 +318,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>16</div>
                         <div className='flex pl-0 w-64  justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels19_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels19_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>Shemaroo Filmi Gaane</div>
@@ -336,7 +336,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>17</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels20_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels20_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>T-Series Bhakti Sagar</div>
@@ -354,7 +354,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>18</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels21_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels21_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>Canal KondZilla</div>
@@ -372,7 +372,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>19</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels22_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels22_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>Tips Official</div>
@@ -390,7 +390,7 @@ function TotalSubs() {
                         <div className='pl-8 flex justify-center pr-12'>20</div>
                         <div className='flex pl-0 w-64   justify-start pr-12'>
                             <div className=''>
-                                <img className='border-2 h-12 rounded-md' src="src\assets\channels23_profile.jpg" alt="" />
+                                <img className='border-2 h-12 rounded-md' src="public\channels23_profile.jpg" alt="" />
                             </div>
                             <div className='ml-4'>
                                 <div className='text-sm m-0 p-0'>Aaj Tak</div>

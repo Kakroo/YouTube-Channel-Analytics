@@ -16,7 +16,7 @@ export default function Home() {
                     
                     {/* <NavLink to="/channelpage" id="mrbeast" className="w-auto border-2 mt-2 mr-3 rounded-lg py-2 px-3" >
                         <div className="flex">
-                        <img className="w-6 rounded-md" src="src\assets\channels3_profile.jpg" alt="" />
+                        <img className="w-6 rounded-md" src="public\channels3_profile.jpg" alt="" />
                         <div className="ml-2">MrBeast</div>
                         </div>
                     </NavLink> */}
@@ -24,38 +24,38 @@ export default function Home() {
 
                     <NavLink to="/mrbeast" className="w-auto border-2 mt-2 mr-3 rounded-lg py-2 px-3" >
                         <div className="flex">
-                        <img className="w-6 rounded-md" src="src\assets\channels3_profile.jpg" alt="" />
+                        <img className="w-6 rounded-md" src="public\channels3_profile.jpg" alt="" />
                         <div className="ml-2">MrBeast</div>
                         </div>
                     </NavLink>
                     
                     <NavLink to="/doctormike" className="w-auto border-2 mt-2 mr-3 rounded-lg py-2 px-3">
                     <div className="flex">
-                        <img className="w-6 rounded-md" src="src\assets\channels5_profile.jpg" alt="" />
+                        <img className="w-6 rounded-md" src="public\channels5_profile.jpg" alt="" />
                         <div className="ml-2">Doctor Mike</div>
                         </div>
                     </NavLink>
                     <NavLink to='/isaiahphoto' className="w-auto border-2 mt-2 mr-3 rounded-lg py-2 px-3">
                     <div className="flex">
-                        <img className="w-6 rounded-md" src="src\assets\channels24_profile.jpg" alt="" />
+                        <img className="w-6 rounded-md" src="public\channels24_profile.jpg" alt="" />
                         <div className="ml-2">Isaiah Photo</div>
                         </div>
                         </NavLink>
                     <NavLink to='/caseyneistat' className="w-auto border-2 mt-2 mr-3 rounded-lg py-2 px-3">
                     <div className="flex">
-                        <img className="w-6 rounded-md" src="src\assets\channels25_profile.jpg" alt="" />
+                        <img className="w-6 rounded-md" src="public\channels25_profile.jpg" alt="" />
                         <div className="ml-2">Casey Neistat</div>
                         </div>
                         </NavLink>
                     <NavLink to='/ididathing' className="w-auto border-2 mt-2 mr-3 rounded-lg py-2 px-3">
                     <div className="flex">
-                        <img className="w-6 rounded-md" src="src\assets\channels26_profile.jpg" alt="" />
+                        <img className="w-6 rounded-md" src="public\channels26_profile.jpg" alt="" />
                         <div className="ml-2">I did a thing</div>
                         </div>
                         </NavLink>
                     <NavLink to='/chrisbumstead' className="w-auto border-2 mr-3 mt-2 rounded-lg py-2 px-3">
                     <div className="flex">
-                        <img className="w-6 rounded-md" src="src\assets\channels27_profile.jpg" alt="" />
+                        <img className="w-6 rounded-md" src="public\channels27_profile.jpg" alt="" />
                         <div className="ml-2">Chris Bumstead</div>
                         </div>
                         </NavLink>
@@ -67,14 +67,14 @@ export default function Home() {
             <div className='flex mt-16 justify-between  items-center px-4 py-5 shadow-lg rounded-md border-2 max-sm:mx-4 border-gray-100'>
                 <div className=' max-sm:hidden flex items-center mr-4 ml-6'>
                     <div>
-                        <img className=' flex-shrink-0 w-12 rounded-full h-12 object-fill border-2  border-blue-400' src="./src/assets/channels3_profile.jpg" alt="" />
+                        <img className=' flex-shrink-0 w-12 rounded-full h-12 object-fill border-2  border-blue-400' src="public\channels3_profile.jpg" alt="" />
                     </div>
                     
                 </div>
                 <span className='dark:text-white max-sm:hidden text-sm  font-bold ml-1.5 mr-1.5'>VS</span>
                 <div className=' max-sm:hidden flex items-center ml-3'>
                     <div>
-                        <img className='flex-shrink-0 w-12  rounded-full h-12 object-fill border-2 border-red-500' src="./src/assets/channels4_profile.jpg" alt="" />
+                        <img className='flex-shrink-0 w-12  rounded-full h-12 object-fill border-2 border-red-500' src="public\channels4_profile.jpg" alt="" />
                     </div>
                     
                 </div>
