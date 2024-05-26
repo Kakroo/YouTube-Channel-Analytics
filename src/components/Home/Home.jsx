@@ -24,7 +24,7 @@ export default function Home() {
 
                     <NavLink to="/mrbeast" className="w-auto border-2 mt-2 mr-3 rounded-lg py-2 px-3" >
                         <div className="flex">
-                        <img className="w-6 rounded-md" src="public\channels3_profile.jpg" alt="" />
+                        <img className="w-6 rounded-md" src="public\images\channels3_profile.jpg" alt="" />
                         <div className="ml-2">MrBeast</div>
                         </div>
                     </NavLink>
