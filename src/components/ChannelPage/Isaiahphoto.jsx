@@ -8,7 +8,7 @@ function Isaiahphoto() {
             <div className='flex justify-between  items-center px-4 py-5 shadow-lg rounded-md border-2 border-gray-100'>
                 <div className='flex items-center mr-8 ml-4'>
                     <div>
-                        <img className=' flex-shrink-0 w-16 rounded-full h-16 object-fill border-2  border-blue-400' src="public\images\channels3_profile.jpg" alt="" />
+                        <img className=' flex-shrink-0 w-16 rounded-full h-16 object-fill border-2  border-blue-400' src="/images/channels3_profile.jpg" alt="" />
                     </div>
                     <div className='ml-6'>
                         <h2 className=' text-xl font-semibold'>MrBeast</h2>
@@ -17,7 +17,7 @@ function Isaiahphoto() {
                 <span className='text-3xl  font-bold ml-6 mr-6'>VS</span>
                 <div className='flex items-center ml-8'>
                     <div>
-                        <img className='flex-shrink-0 w-16  rounded-full h-16 object-fill border-2 border-red-500' src="public\images\channels4_profile.jpg" alt="" />
+                        <img className='flex-shrink-0 w-16  rounded-full h-16 object-fill border-2 border-red-500' src="/images/channels4_profile.jpg" alt="" />
                     </div>
                     <div className='ml-6'>
                         <h2 className=' text-xl font-semibold text-nowrap '>T-Series</h2>
@@ -41,7 +41,7 @@ function Isaiahphoto() {
                 <div className='flex justify-between '>
                     <div className='flex items-center mr-10 '>
                         <div>
-                            <img className='w-24 rounded-md' src="public\images\channels24_profile.jpg" alt="" />
+                            <img className='w-24 rounded-md' src="/images/channels24_profile.jpg" alt="" />
                         </div>
                         <div className='ml-4'>
                             <div className='text-2xl font-bold'>Isaiah Photo</div>
