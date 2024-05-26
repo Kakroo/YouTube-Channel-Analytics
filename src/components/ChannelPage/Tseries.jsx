@@ -4,7 +4,7 @@ import React from 'react'
 function Tseries() {
   return (
     <>
-        <div className="Main-container flex  flex-col justify-center m-auto items-center mt-8 w-full">
+        <div className="Main-container flex  dark:bg-black dark:text-white flex-col justify-center m-auto items-center py-16 w-full">
             <div className='flex justify-between  items-center px-4 py-5 shadow-lg rounded-md border-2 border-gray-100'>
                 <div className='flex items-center mr-8 ml-4'>
                     <div>
@@ -120,9 +120,9 @@ function Tseries() {
                                 </div>
                             </div>
                             <div className='mt-4 ml-4 px-6 py-1 border-t-2 '>
-                                <p className='font-bold mb-5 mt-5'>Channel Description</p>
-                                <p className='text-lg'>"Music can change the world". T-Series is India's largest Music Label & Movie Studio, believes in bringing world close together through its music.</p>
-                                <p className='text-lg'>T-Series is associated with music industry from past three decades, having ample catalogue of music comprising plenty of languages that covers the length & breadth of India. We believe after silence, nearest to expressing the inexpressible is Music. So, all the music lovers who believe in magic of music come join us and live the magic of music with T-Series.</p>
+                                <p className='font-bold text-lg py-4'>About</p>
+                                <p >"Music can change the world". T-Series is India's largest Music Label & Movie Studio, believes in bringing world close together through its music.</p>
+                                <p >T-Series is associated with music industry from past three decades, having ample catalogue of music comprising plenty of languages that covers the length & breadth of India. We believe after silence, nearest to expressing the inexpressible is Music. So, all the music lovers who believe in magic of music come join us and live the magic of music with T-Series.</p>
                                 
                             </div>
                         </div>
