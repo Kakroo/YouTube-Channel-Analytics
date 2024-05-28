@@ -9,12 +9,12 @@ function Header(){
                 <div className="flex max-w-7xl items-center mt-2  px-4 py-2 sm:px-6 lg:px-8 dark:bg-black dark:text-white">
                     <div className=" hidden lg:block justify-start">
                         <div>
-                            <div className="sm:hidden lg:px-8 ">
+                            <div className="md:hidden lg:px-8 ">
                                 <NavLink to='/' className="inline-flex items-center text-sm font-semibold text-gray-800 hover:text-gray-900">
                                     Home
                                 </NavLink>
                             </div>
-                            <div className="sm:hidden lg:px-8 ">
+                            <div className="md:hidden lg:px-8 ">
                                 <NavLink to='/totalsubs' className="inline-flex items-center text-sm font-semibold text-gray-800 hover:text-gray-900">
                                     Top Lists
                                     
@@ -57,7 +57,7 @@ function Header(){
                                 ></path>
                                 </svg>
                             </span>
-                            <span className="font-bold ">YouTube Channel Analytics </span>
+                            <span className="font-bold max-xs:text-xs ">YouTube Channel Analytics </span>
                         </div>
                     
                     </NavLink>
